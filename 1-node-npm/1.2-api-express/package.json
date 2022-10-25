@@ -1,0 +1,20 @@
+{
+  "name": "1.2-api-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "OctavioHurtado",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "create-react-app": "^1.2.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
